@@ -1,0 +1,22 @@
+{
+  "title": "Today's Big Game",
+  "teamA": "Golden State Warriors",
+  "teamB": "Los Angeles Lakers",
+  "market": "0x0000000000000000000000000000000000000000",
+  "tradeDataA": {
+    "gameId": "0x0000000000000000000000000000000000000000000000000000000000000001",
+    "typeId": 0,
+    "playerId": 0,
+    "line": 0,
+    "position": 0,
+    "combinedPositions": 0
+  },
+  "tradeDataB": {
+    "gameId": "0x0000000000000000000000000000000000000000000000000000000000000001",
+    "typeId": 0,
+    "playerId": 0,
+    "line": 0,
+    "position": 1,
+    "combinedPositions": 0
+  }
+}
